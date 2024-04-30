@@ -1,8 +1,4 @@
 
-
-
-select * from dim_campaigns;
-
 -- 1. Provide a list of products with a base price greater than 500 and that are featured in promo type of 'BOGOF' 
 -- (Buy One Get One Free).
 
